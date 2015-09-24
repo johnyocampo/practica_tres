@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">punto4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="boton">Calcular</string>
+    <string name="ET1">ingrese el valor 1</string>
+    <string name="ET2">ingrese el valor 2</string>
+    <string name="rbcuadro">cuadro</string>
+    <string name="rbtriangulo">triangulo</string>
+    <string name="rbrectangulo">rectangulo</string>
+    <string name="rbcirculo">circulo</string>
+    <string name="mensajecuadro1">ingrese el lado 1</string>
+
+</resources>

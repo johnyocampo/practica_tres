@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">punto3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="boton">calcular nota</string>
+    <string name="ET1">nota quices        </string>
+    <string name="ET2">nota exposiciones  </string>
+    <string name="ET3">nota laboratorio   </string>
+    <string name="ET4">nota proyecto final</string>
+    <string name="rbsuma">sumar</string>
+    <string name="rbresta">restar</string>
+    <string name="rbmultiplicacion">multiplicar</string>
+    <string name="rbdivision">dividir</string>
+
+</resources>

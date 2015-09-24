@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">punto2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="boton">Resultado</string>
+    <string name="ET1">ingrese el valor 1</string>
+    <string name="ET2">ingrese el valor 2</string>
+    <string name="rbsuma">sumar</string>
+    <string name="rbresta">restar</string>
+    <string name="rbmultiplicacion">multiplicar</string>
+    <string name="rbdivision">dividir</string>
+
+</resources>
